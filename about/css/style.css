@@ -23,10 +23,10 @@ body {
 	display: inline;
 	background-image: linear-gradient(180deg, transparent 0, #fff 0);
 	background-repeat: no-repeat;
-	-webkit-box-decoration-break: clone;
+/* 	-webkit-box-decoration-break: clone;
 	background-size: 100% 1em;
 	background-position-x: 0px;
-	background-position-y: center;
+	background-position-y: center; */
 	line-height: 1.2;
 	padding-left: 15px;
 	padding-right: 15px;
@@ -44,15 +44,15 @@ body {
   	clear: both;
 	display: inline;
 	background-repeat: no-repeat;
-	-webkit-box-decoration-break: clone;
+/* 	-webkit-box-decoration-break: clone;
  	background-position-x: 0px;
 	background-position-y: center;
- 	padding: 5px 15px;
+ 	padding: 5px 15px; */
 	max-width: 695px;
 	cursor: pointer; 
-	transition: background-color 0.6s ease;
+/* 	transition: background-color 0.6s ease; */
 	transition: color 0.6s ease;
-	transition: font-style 0.6s ease;
+/* 	transition: font-style 0.6s ease; */
 
 }
 
