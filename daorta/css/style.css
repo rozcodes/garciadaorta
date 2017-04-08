@@ -22,10 +22,10 @@ body {
 	display: inline;
 	background-image: linear-gradient(180deg, transparent 0, #fff 0);
 	background-repeat: no-repeat;
-/* 	-webkit-box-decoration-break: clone; */
+	-webkit-box-decoration-break: clone;
 	background-size: 100% 1em;
-/* 	background-position-x: 0px; */
-/* 	background-position-y: center; */
+	background-position-x: 0px;
+	background-position-y: center;
 	line-height: 1.2;
 	padding-left: 15px;
 	padding-right: 15px;
@@ -96,7 +96,7 @@ a {
 section {
 	color: white;
  	background: #292929;
- 	/*background-color: #485933;*/
+ 	background-color: #485933;
 	padding: 50px 20px;
 	margin: 0 10% 0 7%;
 	float: left;
