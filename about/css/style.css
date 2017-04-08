@@ -73,9 +73,9 @@ body {
   	clear: both;
 	display: inline;
 	background-repeat: no-repeat;
-	-webkit-box-decoration-break: clone;
+/* 	-webkit-box-decoration-break: clone;
  	background-position-x: 0px;
-	background-position-y: center;
+	background-position-y: center; */
  	padding: 5px 15px;
 	max-width: 695px;
 	background-color: white;
