@@ -73,9 +73,9 @@ body {
   	clear: both;
 	display: inline;
 	background-repeat: no-repeat;
-/* 	-webkit-box-decoration-break: clone;
+	-webkit-box-decoration-break: clone;
  	background-position-x: 0px;
-	background-position-y: center; */
+	background-position-y: center;
  	padding: 5px 15px;
 	max-width: 695px;
 	background-color: white;
@@ -92,7 +92,7 @@ body {
 section {
 	color: white;
  	background: #292929;
- 	/*background-color: #485933;*/
+/*  	background-color: #485933; */
 	padding: 50px 20px;
 	margin: 0 10% 0 7%;
 	float: left;
@@ -165,7 +165,7 @@ a {
 }
 
 .tab:hover {
-/* 	transition: background-color 0.6s ease; */
+	transition: background-color 0.6s ease;
 	background: #F4D91D;
 }
 
@@ -176,7 +176,7 @@ h3 {
 }
 
 .active {
-/* 	transition: background-color 0.6s ease; */
+	transition: background-color 0.6s ease;
 	background: #F4D91D;
 	display: show;
 }
@@ -266,7 +266,7 @@ h3 {
 .caption {
 	font-size: 16px;
 	line-height: .8;
-	/*margin-left: 300px;*/
+	margin-left: 300px;
 	color: black;
 	float: left;
 }
@@ -316,7 +316,7 @@ h3 {
 	margin: 0 2px;
 	display: inline-block;
 	border-radius: 10px;
-/* 	transition: background-color 0.6s ease; */
+	transition: background-color 0.6s ease;
 	clear: both;	
 	text-align: center;
 	z-index: 49;
@@ -379,7 +379,7 @@ h3 {
 	margin-left: 3%; 
 	position: relative;
 	z-index: 55;
-/* 	transition: opacity 0.6s ease */
+	transition: opacity 0.6s ease
 }
 
 
