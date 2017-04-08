@@ -62,7 +62,7 @@
 }
   
  
-#diseasebucket:hover, #more:hover, #daorta:hover, #medica:hover {
+#diseasebucket:hover, #daorta:hover, #medica:hover {
 		font-style: italic;
 		font-weight: 800;
 }  
