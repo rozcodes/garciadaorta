@@ -14,7 +14,6 @@ body {
 }
 
 #mainnav h2 {
-	font-family: 'Open Sans', sans-serif;
 	font-weight: 600;
 	color: #ff7b56;
 	font-size: 36px;
@@ -33,9 +32,8 @@ body {
 
 } 
 
-#abt, #diseasebucket, #medica {
+#abt, #daorta, #diseasebucket {
 	font-size: 20px;
-  	font-family: 'Open Sans', sans-serif;
   	font-weight: 400;
   	color: black;
   	background-color: #fff;
@@ -55,7 +53,6 @@ body {
 	transition: font-style 0.6s ease;
 
 }
-
 
 #diseasebucket:hover, #abt:hover, #medica:hover {
 		font-style: italic;
