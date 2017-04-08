@@ -1,6 +1,6 @@
 body {
 	width: 100%;
-	background: url("chinaroot.jpg");
+	background-image: url("chinaroot.jpg");
 	background-repeat: repeat;
 	margin-bottom: -20px;
 	margin-left: -10px;
