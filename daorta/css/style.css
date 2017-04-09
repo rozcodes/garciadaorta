@@ -1,10 +1,13 @@
 body {
 	width: 100%;
 	background-image: url("https://rozcodes.github.io/garciadaorta/chinaroot.jpg");
- 	background-repeat: repeat;
+	background-repeat: repeat;
 	margin-bottom: -20px;
 	margin-left: -10px;
+	font-family: 'Open Sans', sans-serif;
+
 }
+ 
 
 /*HEADER AND NAV*/
 #mainnav {
@@ -32,7 +35,7 @@ body {
 
 } 
 
-#abt, #medica, #diseasebucket {
+#abt, #diseasebucket, #medica {
 	font-size: 20px;
   	font-weight: 400;
   	color: black;
@@ -54,6 +57,7 @@ body {
 
 }
 
+
 #diseasebucket:hover, #abt:hover, #medica:hover {
 		font-style: italic;
 		font-weight: 800;
@@ -65,7 +69,7 @@ body {
 
 #daorta {
 	display: inline-block;
-	margin-left: 3%;
+  	margin: 0 0 0 40px;
   	clear: both;
 	display: inline;
 	background-repeat: no-repeat;
@@ -76,7 +80,6 @@ body {
 	max-width: 695px;
 	background-color: white;
 	font-size: 20px;
-  	font-family: 'Open Sans', sans-serif;
   	font-style: italic;
   	font-weight: 800;
   	color: black;
