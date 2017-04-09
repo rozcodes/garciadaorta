@@ -64,12 +64,8 @@ body {
 }
 
 #abt {
-	margin-left: 20%;
-}
-
-#abt {
 	display: inline-block;
-  	margin: 0 0 0 40px;
+  	margin-left: 20%;
   	clear: both;
 	display: inline;
 	background-repeat: no-repeat;
