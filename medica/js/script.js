@@ -112,33 +112,27 @@ $("#dot1").click(function(hideshow1) {
 $(document).ready(function(){
 
   $("#macenutmeg").click(function(big) {
-        $(".thumb").hide("fast");
-        $(".macen").removeClass("hidebox");
+         $(".macen").removeClass("hidebox");
   });
 
     $("#negundo").click(function(big) {
-        $(".thumb").hide("fast");
-        $(".negundof").removeClass("hidebox");
+         $(".negundof").removeClass("hidebox");
   });
 
     $("#galanga").click(function(big) {
-        $(".thumb").hide("fast");
-        $(".galanga").removeClass("hidebox");
+         $(".galanga").removeClass("hidebox");
   });
 
     $("#mace").click(function(big) {
-        $(".thumb").hide("fast");
-        $(".mace").removeClass("hidebox");
+         $(".mace").removeClass("hidebox");
   });
 
     $("#arbortriste").click(function(big) {
-        $(".thumb").hide("fast");
-        $(".arbor").removeClass("hidebox");
+         $(".arbor").removeClass("hidebox");
   });
 
     $("#canela").click(function(big) {
-        $(".thumb").hide("fast");
-        $(".canela").removeClass("hidebox");
+         $(".canela").removeClass("hidebox");
   });
 
 });
@@ -146,8 +140,7 @@ $(document).ready(function(){
 $(document).ready(function() {
   $(".lightbox").click(function(thumbnail) {
     $(".lightbox").addClass("hidebox");
-    $(".one").show("fast");
-  });
+   });
 });
 
 
